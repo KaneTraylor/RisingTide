@@ -7,7 +7,7 @@ Test.1
   <a href="#" class="control_prev"</a>
   <ul>
     <li>balls</li>
-    <li style="background: #fff;"
+    <li style="background: #aaa;"
         <html>
     <style>
       
